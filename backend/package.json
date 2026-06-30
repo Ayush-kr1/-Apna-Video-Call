@@ -9,7 +9,7 @@
     "start": "node server.js",
     "prod": "pm2 server.js"
   },
-  "author": "apnacollege",
+  "author": "Karn Ayush",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.1",
