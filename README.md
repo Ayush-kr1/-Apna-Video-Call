@@ -292,7 +292,7 @@ Meeting History
 
 ## 📸 Project Overview
 
-![Project Overview](screenshots/project-overview.png)
+https://github.com/Ayush-kr1/-Apna-Video-Call/blob/4a1cb2842b67f2247ed175ffac7193420eac942c/%5BProject%20Overview%5D(screenshotsproject-overview.png2).jpeg
 
 
 
